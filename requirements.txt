@@ -1,3 +1,7 @@
 Flask
-itsdangerous
+Flask-SQLAlchemy
+Flask-Mail
+pyjwt
+cryptography
+
  
